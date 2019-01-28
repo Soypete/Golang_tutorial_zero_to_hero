@@ -3,9 +3,9 @@ I believe the simplicity and cleanliness of the Go programming Language makes it
 
 _This tutorial is written for people who have less that one year programming experience or even no experience whatsoever._
 
-## [Part-1 Intro to Programming](../part_1/intro_to_programming.md)
+## [Part-1 Intro to Programming](/part_1/intro_to_programming.md)
 
-### [1.1 Hello World](../part_1/1.1_hello_world.md)
+### [1.1 Hello World](/part_1/1.1_hello_world.md)
 ### 1.2 Types
 ### 1.3 Functions
 ### 1.4 Conditionals
