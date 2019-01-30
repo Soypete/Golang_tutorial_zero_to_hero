@@ -38,4 +38,4 @@ _This tutorial is written for people who have less that one year programming exp
 
 ## Part-6 Deploying a Service
 
-### 5.1 Docker 
+### 6.1 Docker 
