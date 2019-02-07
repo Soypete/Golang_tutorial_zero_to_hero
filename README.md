@@ -7,11 +7,11 @@ _This tutorial is written for people who have less that one year programming exp
 
 ### [1.1 Hello World](/part_1/1.1_hello_world.md)
 ### [1.2 Types](/part_1/1.2_types.md)
-### 1.3 Functions
+### [1.3 Functions](/part_1/1.3_functions.md)
 ### 1.4 Conditionals
 ### 1.5 Loops
 
-## Part-2 Using the CommandLine
+## Part-2 Using the Command Line
 
 ### 2.1 Bash
 ### 2.2 Git
@@ -39,3 +39,7 @@ _This tutorial is written for people who have less that one year programming exp
 ## Part-6 Deploying a Service
 
 ### 6.1 Docker 
+
+## Extras
+
+### Problems Solving
