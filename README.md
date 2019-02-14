@@ -8,13 +8,13 @@ _This tutorial is written for people who have less that one year programming exp
 ### [1.1 Hello World](/part_1/1.1_hello_world.md)
 ### [1.2 Types](/part_1/1.2_types.md)
 ### [1.3 Functions](/part_1/1.3_functions.md)
-### 1.4 Conditionals
-### 1.5 Loops
+### [1.4 Conditionals](/part_1/1.4_conditionals.md)
+### [1.5 Loops](/part_1/1.5_loops.md)
 
-## Part-2 Using the Command Line
+## [Part-2 Using the Command Line](/part_2/using_command_line.md)
 
-### 2.1 Bash
-### 2.2 Git
+### [2.1 Bash](/part_2/2.1_Bash.md)
+### [2.2 Git](/part_2/2.2_git.md)
 ### 2.3 Install Go
 ### 2.4 Pick Your IDE
 
