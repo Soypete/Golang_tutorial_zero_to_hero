@@ -41,5 +41,6 @@ _This tutorial is written for people who have less that one year programming exp
 ### 6.1 Docker 
 
 ## Extras
-
-### Problems Solving
+* Problem Solving
+* Object Oriented Programming in Go
+* Unit Testing

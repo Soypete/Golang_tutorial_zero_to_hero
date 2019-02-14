@@ -1,0 +1,1 @@
+the secret to Go programming is becoming comfortable in you terminal. The goal of this section is to introduce first time users to the command line, to command line tools like Git and Bash, and to help users learn about and pick and IDE.
