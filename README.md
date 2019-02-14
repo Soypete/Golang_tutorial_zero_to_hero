@@ -15,8 +15,8 @@ _This tutorial is written for people who have less that one year programming exp
 
 ### [2.1 Bash](/part_2/2.1_Bash.md)
 ### [2.2 Git](/part_2/2.2_git.md)
-### 2.3 Install Go
-### 2.4 Pick Your IDE
+### [2.3 Install Go](/part_2/2.3_installing_go.md)
+### [2.4 Pick Your IDE](/part_2/2.4_pick_your_IDE.md)
 
 ## Part-3 Write a Go server
 
