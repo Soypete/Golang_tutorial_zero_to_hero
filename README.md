@@ -18,29 +18,28 @@ _This tutorial is written for people who have less that one year programming exp
 ### [2.3 Install Go](/part_2/2.3_installing_go.md)
 ### [2.4 Pick Your IDE](/part_2/2.4_pick_your_IDE.md)
 
-## Part-3 Write a Go server
+## [Part-3 Write a Go server](/part_3/write_a_go_server.md)
 
-### 3.1 What is an API?
-### 3.2 Chat server Example project
+### [3.1 What is an API?](/part_3/3.1_api.md)
+### [3.2 Chat server Example project](/part_3/chat_server_example.md)
 
-## Part-4 Dependencies
+## [Part-4 Dependencies](/part_4/dependencies.md)
 
-### 4.1 Installing and using Dep
-### 4.2 Using Go Modules
-### 4.3 Go Get
+### [4.1 Installing and using Dep](/part_4/4.1installing_and_using_dep.md)
+### [4.2 Using Go Modules](/part_4/4.2using_go_modules.md)
 
-## Part-5 Checking your Code
+## [Part-5 Checking your Code](/part_5/checking_your_code.md)
 
-### 5.1 Linters
-### 5.2 Unit Tests
-### 5.3 Test Coverage
-### 5.4 Web Crawler Example
+### [5.1 Linters](part_5/5.1linters.md)
+### [5.2 Unit Tests](part_5/5.2_unit_tests.md)
+### [5.3 Test Coverage](part_5/5.3_test_coverage.md)
+### [5.4 Web Crawler Example](part_5/5.4_web_crawler_example.md)
 
-## Part-6 Deploying a Service
+## [Part-6 Deploying a Service](part_6/deploying_a_service.md)
 
-### 6.1 Docker 
+### [6.1 Docker](6.1_docker.md)
 
-## Extras
+## Extras (Coming Soon)
 * Problem Solving
 * Object Oriented Programming in Go
 * Unit Testing
