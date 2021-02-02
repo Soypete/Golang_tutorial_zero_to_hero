@@ -25,8 +25,8 @@ _This tutorial is written for people who have less that one year programming exp
 
 ## [Part-4 Dependencies](/part_4/dependencies.md)
 
-### [4.1 Installing and using Dep](/part_4/4.1installing_and_using_dep.md)
-### [4.2 Using Go Modules](/part_4/4.2using_go_modules.md)
+### [4.1 Using Go Modules](/part_4/4.2using_go_modules.md)
+### [4.2 Using Opensource Libriares]
 
 ## [Part-5 Checking your Code](/part_5/checking_your_code.md)
 
