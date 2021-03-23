@@ -37,7 +37,7 @@ _This tutorial is written for people who have less that one year programming exp
 
 ## [Part-6 Deploying a Service](part_6/deploying_a_service.md)
 
-### [6.1 Docker](6.1_docker.md)
+### [6.1 Docker](6.1_Docker.md)
 
 ## Extras (Coming Soon)
 * Problem Solving
