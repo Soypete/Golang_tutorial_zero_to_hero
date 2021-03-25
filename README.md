@@ -47,3 +47,4 @@ _This tutorial is written for people who have less that one year programming exp
 ## Additional Resources
 - If you have development experience [Go Training](http://gotraining.xyz/gotraining.slide)
 - [GolangBot](https://golangbot.com/learn-golang-series/)
+- [Practical Go Lessons](https://www.practical-go-lessons.com/)
