@@ -46,5 +46,4 @@ _This tutorial is written for people who have less that one year programming exp
 
 ## Additional Resources
 - [GolangBot](https://golangbot.com/learn-golang-series/)
-- [Practical Go Lessons](https://www.practical-go-lessons.com/)
 - [Golang From Zero Video Series](https://www.youtube.com/watch?v=cIMko3vBM50&list=PL_QaflmEF2e8O4N3mwjFkul_BNpxgO9K_)
