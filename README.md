@@ -1,7 +1,20 @@
 # GoLang tutorial for Beginners
-I believe the simplicity and cleanliness of the Go programming Language makes it suitable as a language for first time programmers. 
 
-_This tutorial is written for people who have less that one year programming experience or even no experience whatsoever._
+**NOTE**: _This tutorial is written for people who have less that one year programming experience or even no experience whatsoever._
+
+A question I get commonly asked as as a speaker and mentor is, _Are bootcamps worth it? Should I go to a bootcamp to start my career in tech?_ I have the hardest time answering that question. This truth is, all the material provided in software bootcamps is available online for free. 
+
+The reason behind this course is to provide that same free content, but for my favorite programming language [Go](https://golang.org/)
+
+## What is Go?
+I believe the simplicity and cleanliness of the Go programming language makes it suitable as a language for first time programmers. 
+
+Go is a programming language was developed at google in 2009. It was written to help replace some of the heavy and complex c++ infrastructure. Since then it has grown to a powerful tool for all types of programming. 
+
+### The Why of Go
+Here is a great video by [Carmen Andoh]() about Go and why to use it. 
+
+[https://www.infoq.com/presentations/go-concurrency-gc/](https://www.infoq.com/presentations/go-concurrency-gc)
 
 ## [Part-1 Intro to Programming](/part_1/intro_to_programming.md)
 
