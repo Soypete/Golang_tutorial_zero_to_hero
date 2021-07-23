@@ -15,7 +15,6 @@ Go is a programming language was developed at google in 2009. It was written to 
 Here is a great video by [Carmen Andoh]() about Go and why to use it. 
 
 [https://www.infoq.com/presentations/go-concurrency-gc/](https://www.infoq.com/presentations/go-concurrency-gc)
-
 ## [Part-1 Intro to Programming](/part_1/intro_to_programming.md)
 
 ### [1.1 Hello World](/part_1/1.1_hello_world.md)
