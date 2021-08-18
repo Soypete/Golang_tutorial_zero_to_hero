@@ -4,5 +4,5 @@ Writing code is a skill that everyone can benefit from. Programming is in its es
 ## [1.1 Hello World](/part_1/1.1_hello_world.md)
 ## [1.2 Types](/part_1/1.3_type.md)
 ## [1.3 Functions](/part_1/1.2_functions.md)
-## 1.4 Conditionals
-## 1.5 Loops
+## [1.4 Conditionals](/part_1/1.4_conditionals.md)
+## [1.5 Loops](/part_1/1.5_loops.md)
